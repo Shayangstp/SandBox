@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
-import "./App.css";
+
 import Title from "./Components/Title";
 import { Button } from "react-bootstrap";
-import Card from "react-bootstrap/Card";
+
 import { BsFilePost } from "react-icons/bs";
 import { BiCommentDetail } from "react-icons/bi";
 import { AiOutlineUser } from "react-icons/ai";

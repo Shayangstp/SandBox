@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 
-import "./App.css";
 import dog from "./assets/dog.jpg";
 import { Card } from "react-bootstrap";
 import { AiOutlineHeart, AiFillHeart, AiOutlineComment } from "react-icons/ai";
