@@ -1,0 +1,36 @@
+.slider::-webkit-slider-thumb {
+  appearance: none;
+  background: rgb(255, 255, 255);
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #ffffff;
+}
+
+.slider::-webkit-slider-thumb:active {
+  background: #fff;
+}
+
+.slider {
+  appearance: none;
+  border: none;
+}
+
+.unlockIcon {
+  font-size: 80px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  margin-bottom: 2rem;
+  transition: all 0.2s;
+}
+
+.unlockIcon:hover {
+  color: #ffffff75;
+}
+
+.title {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 150px;
+  color: #fff;
+}
